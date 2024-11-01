@@ -29,7 +29,7 @@ This rubric provides a comprehensive framework for assessing the effectiveness, 
 | Auctions                         | Ahead-Of-Time                         | Execution Tickets (Execution Auctions)                                                                                          |                                                                                                                                   |
 
 ### Grant Acknowledgment
-This work is made possible by a grant from the PBS Foundation.
+This work is made possible by a grant from the PBS Foundation and support from Blockdaemon.
 
 This rubric aims to help Layer 2 developers and the broader blockchain community enhance fairness, efficiency, and decentralization in PBS approaches, particularly in relation to equitable MEV distribution.
 
