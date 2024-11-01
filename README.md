@@ -38,3 +38,6 @@ You can use this rubric as a reference to evaluate the PBS strategies within you
 
 ### Contributing
 We welcome contributions to improve this rubric. Please feel free to submit your suggestions via a pull request or open an issue to discuss improvements.
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
