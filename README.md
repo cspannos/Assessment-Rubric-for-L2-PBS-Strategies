@@ -34,7 +34,7 @@ This work is made possible by a grant from the PBS Foundation and support from B
 This rubric aims to help Layer 2 developers and the broader blockchain community enhance fairness, efficiency, and decentralization in PBS approaches, particularly in relation to equitable MEV distribution.
 
 ### Usage
-You can use this rubric as a reference to evaluate the PBS strategies within your Layer 2 blockchain protocol. It helps identify strengths and areas for improvement to ensure a balanced approach to decentralization and efficiency.
+You can use this rubric as a reference to evaluate the PBS strategies within your Layer 2 protocol. It helps identify strengths and areas for improvement to ensure a balanced approach to decentralization and efficiency.
 
 ### Contributing
 We welcome contributions to improve this rubric. Please feel free to submit your suggestions via a pull request or open an issue to discuss improvements.
